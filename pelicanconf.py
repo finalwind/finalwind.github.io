@@ -38,7 +38,7 @@ MARKUP = ('md', 'ipynb')
 PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['ipynb.markup']
 
-THEME = 'Flex'
+THEME = '../Flex'
 STATIC_PATHS = ['img', 'static']
 FAVICON = 'img/favicon.ico'
 CUSTOM_CSS = 'static/custom.css'
